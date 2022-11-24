@@ -1,0 +1,15 @@
+{
+  "results_path": "results_modela",
+  "device": "cpu",
+  "learningrate": 0,
+  "weight_decay": 0,
+  "n_updates": 0,
+  "validate_at": 5e3,
+  "plot_at": 1e4,
+  "print_stats_at": 1e2,
+  "architecture": "ModelA",
+  "network_config": {
+  },
+  "traininset_path": "python_challenge/trainingset",
+  "testset_path": "challenge_testset.pkl"
+}
