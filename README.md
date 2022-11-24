@@ -40,7 +40,7 @@ Your function should raise a ValueError exception if
 * The minimal distance between the to-be cropped-out rectangle and the border of image_array is less than 20 pixels.
 
 <p align="center">
-<img width="800" height="350" src="https://github.com/MSc-MGomaa/Extrapolate-image-data-using-CNN/blob/8e0185b9c50673d779497149b3981cd05ac072aa/CNN.png">
+<img width="800" height="350" src="https://github.com/MSc-MGomaa/Extrapolate-image-data-using-CNN./blob/3c0d1db878d5176813d7a35e517950ddeb74897f/CNN.png">
 
 ## Second Part
 
@@ -72,7 +72,7 @@ The images were read from grayscale .jpg images into numpy arrays using PIL and 
 ## An example from the experiments
 
 <p align="center">
-<img width="700" height="400" src="https://github.com/MSc-MGomaa/Extrapolate-image-data-using-CNN/blob/a31194730ad06bb52aa2f168c4ff78465e353f83/temp2.PNG">
+<img width="700" height="400" src="https://github.com/MSc-MGomaa/Extrapolate-image-data-using-CNN./blob/3c0d1db878d5176813d7a35e517950ddeb74897f/temp2.PNG">
 
 
 
